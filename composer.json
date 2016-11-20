@@ -1,5 +1,5 @@
 {   
-	"name":"ManyHong/ModernPHP",
+	"name":"many-hong/modern-php",
 	"description":"scan urls from a CSV file and report inaccessible URLs",
 	"keywords":["url","scanner","csv"],
 	"homepage":"https://github.com/lynasity/scanner",
