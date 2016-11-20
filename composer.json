@@ -2,12 +2,12 @@
 	"name":"ManyHong/ModernPHP",
 	"description":"scan urls from a CSV file and report inaccessible URLs",
 	"keywords":["url","scanner","csv"],
-	"homepage":"",
+	"homepage":"https://github.com/lynasity/scanner",
 	"license":"MIT",
 	"authors":[
        {
           "name":"manyhong",
-          "homepage":"",
+          "homepage":"https://github.com/lynasity/scanner",
           "role":"developer"
        }
 	],
