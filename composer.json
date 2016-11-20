@@ -1,0 +1,32 @@
+{   
+	"name":"ManyHong/ModernPHP",
+	"description":"scan urls from a CSV file and report inaccessible URLs",
+	"keywords":["url","scanner","csv"],
+	"homepage":"",
+	"license":"MIT",
+	"authors":[
+       {
+          "name":"manyhong",
+          "homepage":"",
+          "role":"developer"
+       }
+	],
+	"support":{
+      "email":"honglinwei77@gmail.com"
+	},
+    "require": {
+    	"php":">=5.4.0",
+        "guzzlehttp/guzzle": "^6.2",
+    },
+    "require-dev":{
+        "phpunit/phpunit":"~4.3"
+    },
+    "suggest":{
+    	"league/csv":"^8.1"
+    },
+    "autoload":{
+    	"psr-4":{
+    		"ManyHong\\ModernPHP\\":"src/"
+    	}
+    }
+}
